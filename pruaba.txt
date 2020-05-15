@@ -1,3 +1,7 @@
 Este es mi primera practica con git
 
 Estoy emocionado.
+
+Estoy feliz de saber git
+
+Me gusta su estructura
