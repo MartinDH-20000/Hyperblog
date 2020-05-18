@@ -46,3 +46,18 @@ body{
         font-weight: normal;
         font-size: 0.8em;
     }
+  
+    
+    #Footer{
+        width: 105%;
+        background-color: salmon;
+        height: 40px;
+        position: relative;
+        top:30px;
+        left: -27px;
+        text-align: center;
+        font-size: 20pt
+            
+        
+
+    }
