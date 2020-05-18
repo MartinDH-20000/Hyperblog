@@ -9,18 +9,18 @@ body{
     }
     #blog{
         background-color: white !important;
-        padding: 32px;
-        width: 69.5%;
-        top:10px;
+        text-align: center;
+        width: 100%;
+        
         position:relative;
         top:-0px;
-        left:210px;
+       
     }
     #logo{
         width: 30px
     }
     #contenedor{
-        background-color:salmon !important; 
+        background-color:white !important; 
         width: 70%;
         padding: 1em;
         text-align: left;
