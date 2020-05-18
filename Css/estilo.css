@@ -1,34 +1,48 @@
 body{
-  
-text-align: center;
-color:red;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 20pt;
-margin: 0;
-padding: 0;
-}
-#contenedor{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid black;
-    margin: 0 auto;
-}
-#cabecera{
-    color:white;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-    background-color:salmon;
+    background-color: #333 !important;
+    
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
     margin: 0;
-    padding: 0.9em;
-    font-weight: bold;
-    position:relative;
-    top:-30px;
-    left:-30px;
-    width:101%
-}
-#cabecera #txt{
-  text-align: left;
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
+    padding: 0;
+    }
+    #blog{
+        background-color: white !important;
+        padding: 32px;
+        width: 69.5%;
+        top:10px;
+        position:relative;
+        top:-0px;
+        left:210px;
+    }
+    #logo{
+        width: 30px
+    }
+    #contenedor{
+        background-color:salmon !important; 
+        width: 70%;
+        padding: 1em;
+        text-align: left;
+        border: 1px solid black;
+        margin: 0 auto;
+    }
+    #cabecera{
+        
+        color:white;
+        box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+        background-color:salmon !important; 
+        margin: 0;
+        padding: 0.9em;
+        font-weight: bold;
+        position:relative;
+        top:-30px;
+        left:-30px;
+        width:101%
+    }
+    #cabecera #txt{
+      text-align: left;
+        padding: 0 0 0 1em;
+        font-weight: normal;
+        font-size: 0.8em;
+    }
